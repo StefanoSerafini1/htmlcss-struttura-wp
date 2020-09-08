@@ -4,6 +4,7 @@
   box-sizing:border-box;
 }
 body{
+
   padding:30px;
 }
 
@@ -12,5 +13,13 @@ header{
  background-color: yellow;
  margin:10px;
  height:200px;
+
+}
+
+footer{
+
+ height: 200px;
+ color: grey;
+ margin-bottom: 20px;
 
 }
