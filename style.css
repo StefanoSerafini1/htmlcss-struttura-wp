@@ -6,12 +6,12 @@
 body{
 
   padding:30px;
+
 }
 
 header{
 
  background-color: yellow;
- margin:10px;
  height:200px;
 
 }
@@ -19,7 +19,32 @@ header{
 footer{
 
  height: 200px;
- color: grey;
+ background-color: grey;
  margin-bottom: 20px;
+ margin-top: 10px;
+}
+
+main{
+
+  margin-top: 10px;
+  height:500px;
+
+}
+
+aside.contenitore1,
+aside.contenitore2,
+aside.contenitoredoppio{
+
+  float: left;
+
+}
+
+aside.contenitore1{
+
+   width:30%;
+   background-color: purple;
+   height: 350px;
+   margin-right: 2px;
+
 
 }
