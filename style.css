@@ -31,20 +31,30 @@ main{
 
 }
 
-aside.contenitore1,
-aside.contenitore2,
-aside.contenitoredoppio{
+main .contenitore1,
+main .contenitore2,
+main .contenitoredoppio{
 
   float: left;
 
 }
 
-aside.contenitore1{
+main .contenitore1{
 
    width:30%;
    background-color: purple;
-   height: 350px;
+   height: 300px;
    margin-right: 2px;
+
+
+}
+
+main .contenitore2{
+
+  width:40%;
+  background-color: purple;
+  height: 300px;
+  margin-right: 2px;
 
 
 }
